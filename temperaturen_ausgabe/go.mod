@@ -1,0 +1,1 @@
+module temperaturen_ausgabe
